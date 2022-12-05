@@ -3,6 +3,40 @@ I'm Hong Son from UIT
 I'm a member of Trainee Programme
 I'm keen on Solar system
 ...and so on
+#input {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  width: 8em;
+  max-width: 80%;
+  background: none;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid #fff;
+  color: #fff;
+  font-size: 3em;
+  text-align: center;
+  z-index: 999;
+  opacity: .25;
+  transform: translateX(-50%);
+  transition: opacity .3s;
+  
+  &:hover,
+  &:focus {
+    opacity: 1;
+  }
+}
+
+body {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/NFCtXxuW) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hongson0406/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leon_13014) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/buihongson2004/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Solar-Shenlong) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@leon_04604) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/@hongson4061) 
