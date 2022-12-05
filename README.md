@@ -13,7 +13,8 @@ I'm Hong Son from UIT I'm a member of Trainee Programme I'm keen on Solar system
 *   🤝  I'm open to collaborating on Webs, Games,...
 *   ⚡  I'm leading the Solar system!!!!!!<a href="https://www.github.com/Solar-Shenlong" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/Solar-Shenlong?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.twitch.tv/hongson0406" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/hongson0406?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=000000&label=TWITCH+STATUS" /></a>### Skills 
+                  src="https://img.shields.io/twitch/status/hongson0406?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=000000&label=TWITCH+STATUS" /></a>
+                  ### Skills 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
