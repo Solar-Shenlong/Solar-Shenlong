@@ -12,9 +12,7 @@ I'm Hong Son from UIT I'm a member of Trainee Programme I'm keen on Solar system
 *   🚀  I'm currently working on [University of Information and Technology (UIT)](http://https://www.uit.edu.vn/)
 *   🧠  I'm learning Computer Science
 *   🤝  I'm open to collaborating on Webs, Games,...
-*   ⚡  I'm leading the Solar system!!!!!!<a href="https://www.github.com/Solar-Shenlong" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Solar-Shenlong?logo=github&style=for-the-badge&color=3382ed&labelColor=000000" /></a><a href="https://www.twitch.tv/hongson0406" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitch/status/hongson0406?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=000000&label=TWITCH+STATUS" /></a>
+*   ⚡  I'm leading the Solar system!!!!!!
                   
 
 ### Skills 
